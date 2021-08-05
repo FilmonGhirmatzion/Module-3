@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-areas: 
+    "header header header"
+    "menu-nav main upcoming-events"
+    "footer footer footer";
+    height: ;
+}
+header{
+    grid-area: header;
+}
+
+@media only screen and (ma)

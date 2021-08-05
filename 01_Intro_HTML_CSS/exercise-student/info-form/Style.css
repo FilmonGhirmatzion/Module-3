@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+img{
+    height: 600px;
+    max-width: 600px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  rgb(172, 236, 172);
+}
+h1 {
+    font-size: 48px;
+    
+    color: #020a00;
+}
+h2 {
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: underline;
+    
+}
+
+p {
+    font-style: italic;
+
+}
+table {
+    column-gap: 100cm;
+}
+
+th {
+    font-size: 28px;
+
+     padding-right: 0 17px;
+   
+}
